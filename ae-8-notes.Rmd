@@ -1,0 +1,10 @@
+---
+title: "Data Ethics"
+output: html_document
+---
+
+## Discuss the misleading data representations here.
+
+## Discuss webscraping here.
+
+## Answer the discussion questions here.
